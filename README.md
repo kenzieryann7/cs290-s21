@@ -11,7 +11,7 @@ I had to create a coding blog website to update about my progress.
 ### Create CSS to copy the mock webpage provided
 
 ## Assignment 3
-## Use Vanilla JavaScript to add interactivity to the HTML web page
+### Use Vanilla JavaScript to add interactivity to the HTML web page
 
 ## Assignment 4
 
